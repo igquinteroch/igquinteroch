@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello there! 👋
 
-<!--
-**igquinteroch/igquinteroch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My name is Ignacio Quintero.
 
-Here are some ideas to get you started:
+I am a dynamic individual currently navigating the enriching realm of academia as a **postgraduate student** while concurrently making waves in the professional sphere as a **team leader and analyst**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am inmersing myself in the field of Artificial Intelligence and passionate about the science behind on how  machines learn, adapt, and evolve, mirroring the intricacies of human cognition. 
+
+Some stuff about me:
+
+- I am currently working at <a href="https://www.roambee.com/">Roambee</a>.
+- I am currently learning about Machine Learning & Cloud Computing.
+- Native Spanish speaker, fluent in English, and currently learning Mandarin.
+- You can reach me at ignacio.quinteroch@gmail.com.
+- You can also check my <a href="https://www.linkedin.com/in/igquinteroch/">LinkedIn</a> profile.
