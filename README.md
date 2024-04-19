@@ -4,7 +4,7 @@
 
 I am a dynamic individual currently navigating the enriching realm of academia as a **postgraduate student** while concurrently making waves in the professional sphere as a **team leader and analyst**.
 
-I am inmersing myself in the field of Artificial Intelligence as I am passionate about how  machines learn, adapt, and evolve, mirroring the intricacies of human cognition. 
+I have a keen curiosity and passion for the Artificial Intelligence field, captivated by how machines learn, adapt, and evolve, mirroring the intricacies of human cognition. 
 
 Some stuff about me:
 
