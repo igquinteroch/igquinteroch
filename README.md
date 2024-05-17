@@ -6,13 +6,15 @@ I am a dynamic and forward-thinking engineer currently navigating the enriching 
 
 I have a keen curiosity and passion for the Artificial Intelligence field, captivated by how machines learn, adapt, and evolve, mirroring the intricacies of human cognition. This passion lies in harnessing the power of Artificial Intelligence to drive innovation, advance scientific endeavors, and create solutions with real-world impact.
 
-## Some stuff about me:
+## 💡 Some stuff about me:
 - I am currently working at <a href="https://www.roambee.com/">Roambee</a>.
-- Native Spanish speaker, fluent in English, and currently learning Mandarin.
+- I possess over 4 years of experience in IoT, Analytics, and Supply Chain.
+- On my free time, I enjoy reading books, listening to music, time with my family and watching sports.
+- I am a native Spanish speaker, fluent in English, and currently learning Mandarin.
 - You can reach me at ignacio.quinteroch@gmail.com.
 - You can also check my <a href="https://www.linkedin.com/in/igquinteroch/">LinkedIn</a> profile, and my <a href="https://public.tableau.com/app/profile/igquinteroch">Tableau Public</a> profile.
 
-### Skills and Technologies:
+## 👨🏻‍💻 Skills and Technologies:
 
 ![](https://img.shields.io/badge/Python-Code?style=flat&logo=python&logoColor=white&label=Code&color=0062CC)
 ![](https://img.shields.io/badge/SQL-Code?style=flat&logo=postgreSQL&logoColor=white&label=Code&color=0062CC)
