@@ -9,7 +9,7 @@ I have a keen curiosity and passion for the Artificial Intelligence field, capti
 ## 💡 Some stuff about me:
 - I am currently working at <a href="https://www.roambee.com/">Roambee</a>.
 - I possess over 4 years of experience in IoT, Analytics, and Supply Chain.
-- On my free time, I enjoy reading books, listening to music, time with my family and watching sports.
+- On my free time, I enjoy reading books, listening to music, spending time with my family and watching sports.
 - I am a native Spanish speaker, fluent in English, and currently learning Mandarin.
 - You can reach me at ignacio.quinteroch@gmail.com.
 - You can also check my <a href="https://www.linkedin.com/in/igquinteroch/">LinkedIn</a> profile, and my <a href="https://public.tableau.com/app/profile/igquinteroch">Tableau Public</a> profile.
