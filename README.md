@@ -2,15 +2,13 @@
 
 ### My name is Ignacio Quintero.
 
-I am a dynamic and forward-thinking engineer currently navigating the enriching realm of academia as a **postgraduate student** in **Artificial Intelligence** while concurrently **leading a team of logistics analysts**.
+I am a forward-thinking engineer with 5 years of experience at the intersection of data, analytics, and customer-centric solutions, driven by a growing focus on innovation, research, and development in Artificial Intelligence.
 
-I have a keen curiosity and passion for the Artificial Intelligence field, captivated by how machines learn, adapt, and evolve, mirroring the intricacies of human cognition. This passion lies in harnessing the power of Artificial Intelligence to drive innovation, advance scientific endeavors, and create solutions with real-world impact.
+I'm always eager to take on new challenges and explore cutting-edge technologies, continuously refining my skills through learning and real-world application.
 
 ## 💡 Some stuff about me:
-- I am currently working at <a href="https://www.roambee.com/">Roambee</a>.
-- I possess over 4 years of experience in IoT, Analytics, and Supply Chain.
-- On my free time, I enjoy reading books, listening to music, spending time with my family and watching sports.
-- I am a native Spanish speaker, fluent in English, and currently learning Mandarin.
+- Currently studying a Master's degree in Artificial Intelligence.
+- Currently working at <a href="https://www.roambee.com/">Roambee</a>.
 - You can reach me at ignacio.quinteroch@gmail.com.
 - You can also check my <a href="https://www.linkedin.com/in/igquinteroch/">LinkedIn</a> profile, and my <a href="https://public.tableau.com/app/profile/igquinteroch">Tableau Public</a> profile.
 
@@ -28,4 +26,3 @@ I have a keen curiosity and passion for the Artificial Intelligence field, capti
 ![](https://img.shields.io/badge/Matplotlib-Code?style=flat&logo=matplot&logoColor=white&label=Data%20Analysis&color=0062CC)
 ![](https://img.shields.io/badge/Seaborn-Code?style=flat&logo=seaborn&logoColor=white&label=Data%20Analysis&color=0062CC)
 ![](https://img.shields.io/badge/Tableau-Code?style=flat&logo=tableau&logoColor=white&label=Data%20Visualization&color=0062CC)
-
