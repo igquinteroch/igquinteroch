@@ -2,15 +2,15 @@
 
 ### My name is Ignacio Quintero.
 
-I am a forward-thinking engineer with 5 years of experience at the intersection of data, analytics, and customer-centric solutions, driven by a growing focus on innovation, research, and development in Artificial Intelligence.
+I am a forward-thinking engineer with +5 years of experience at the intersection of data, analytics, and customer-centric solutions, driven by a growing focus on innovation, research, and development in Artificial Intelligence.
 
-I'm always eager to take on new challenges and explore cutting-edge technologies, continuously refining my skills through learning and real-world application.
+I'm always eager to take on new challenges and explore cutting-edge technologies, continuously refining my skills through learning and real-world applications.
 
 ## 💡 Some stuff about me:
-- Currently studying a Master's degree in Artificial Intelligence.
-- Currently working at <a href="https://www.roambee.com/">Roambee</a>.
+- I'm currently studying a Master's degree in Artificial Intelligence.
+- I'm currently working at <a href="https://www.roambee.com/">Roambee</a>.
 - You can reach me at ignacio.quinteroch@gmail.com.
-- You can also check my <a href="https://www.linkedin.com/in/igquinteroch/">LinkedIn</a> profile, and my <a href="https://public.tableau.com/app/profile/igquinteroch">Tableau Public</a> profile.
+- You can also check my <a href="https://www.linkedin.com/in/igquinteroch/">LinkedIn</a> profile.
 
 ## 👨🏻‍💻 Skills and Technologies:
 
