@@ -30,35 +30,26 @@ I'm always eager to take on new challenges and explore cutting-edge technologies
 ### Code
 
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="python" width="45" height="45"/>
-<img <img src="https://cdn4.iconfinder.com/data/icons/small-n-flat/24/terminal-512.png" alt="terminal" width="45" height="45"/>
-<img <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
-<img <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
-<img <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/>
-<img <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="45" height="45"/>
-<img <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" alt="seaborn" width="45" height="45"/>
-<img <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="sklearn" width="45" height="45"/>
-<img <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="pytorch" width="45" height="45"/>
-<img
+<img src="https://cdn4.iconfinder.com/data/icons/small-n-flat/24/terminal-512.png" alt="terminal" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="45" height="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" alt="seaborn" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="sklearn" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="pytorch" width="45" height="45"/>
 
 ### Software
-
 <img src="https://cdn2.iconfinder.com/data/icons/mixd/512/3_tableau-512.png" alt="tableau" width="45" height="45"/>
-<img
 <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" alt="powerbi" width="45" height="45"/>
-<img
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" alt="conda" width="45" height="45"/>
-<img
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.39.0/files/dark/colab-color.png" alt="colab" width="45" height="45"/>
-<img
 
 ### Collaboration
-
 <img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png" alt="git" width="45" height="45"/>
-<img <img src="https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-social-github-512.png" alt="github" width="45" height="45"/>
-<img <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="jira" width="45" height="45"/>
-<img
+<img src="https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-social-github-512.png" alt="github" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="jira" width="45" height="45"/>
 
 ## Contact
 
